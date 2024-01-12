@@ -1,4 +1,4 @@
-### Hi there, I'm Neil 👋
+### Hi there, I'm Paul 👋
 
 [![Website](https://img.shields.io/badge/Website-pauldambra.dev-red)](https://pauldambra.dev)
 [![Linkedin Badge](https://img.shields.io/badge/Neil--Kakkar-0077b5?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0077b5&link=https://www.linkedin.com/in/paul-d-ambra/)](https://www.linkedin.com/in/paul-d-ambra/)
