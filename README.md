@@ -1,7 +1,7 @@
 ### Hi there, I'm Paul 👋
 
 [![Website](https://img.shields.io/badge/Website-pauldambra.dev-red)](https://pauldambra.dev)
-[![Linkedin Badge](https://img.shields.io/badge/Neil--Kakkar-0077b5?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0077b5&link=https://www.linkedin.com/in/paul-d-ambra/)](https://www.linkedin.com/in/paul-d-ambra/)
+[![Linkedin Badge](https://img.shields.io/badge/Paul-D'Ambra-0077b5?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0077b5&link=https://www.linkedin.com/in/paul-d-ambra/)](https://www.linkedin.com/in/paul-d-ambra/)
 [![Twitter Badge](https://img.shields.io/badge/-@pauldambra?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/pauldambra)](https://twitter.com/pauldambra)
 
 I work at [PostHog](https://github.com/PostHog/posthog), which is open source, which means I can now have Github stats and not feel disappointed:
