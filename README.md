@@ -6,8 +6,7 @@
 
 I work at [PostHog](https://github.com/PostHog/posthog), which is open source, which means I can now have Github stats and not feel disappointed:
 
-[![pauldambra's GitHub stats](https://github-readme-stats.vercel.app/api?username=pauldambra&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/pauldambra)
-
+[![pauldambra's GitHub stats](https://github-readme-stats.vercel.app/api?username=pauldambra&show_icons=true&include_all_commits=true&theme=dark)](https://github.com/pauldambra)
 ---
 
 <!--
